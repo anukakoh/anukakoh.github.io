@@ -1,1 +1,12 @@
-h1 { color : red; }
+h1 { color : rgb(154, 33, 144); }
+
+.redred{
+    color: rgb(175, 207, 48);
+}
+.expedu_icon { 
+color:bisque;
+}
+.expedu_icon:hover{
+    background-color: blue; 
+    color:  black;
+}
