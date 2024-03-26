@@ -4,8 +4,7 @@ h1 { color : rgb(22, 87, 52); }
     background-color: pink !important;
     background-image: url(../assets/img/bg-picture.jpeg);
     background-repeat: no-repeat;
-    background-size: ;
-
+    background-size:cover 
 }
 p#redred{
     color: rgb(175, 207, 48);
