@@ -25,3 +25,41 @@ color:bisque;
 body{ 
     font-family: 'Noto Sans TC', sans-serif;
 }
+
+ol.anuka{
+    list-style-type: upper-alpha;
+}
+
+hr.blank{
+    margin: 50px 0px;
+}
+
+ol.anuka>li:hover{
+    background-color:gainsboro;
+}
+
+table.Anukatable{
+    width: 80%;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 5px solid black;
+}
+
+}
+table.Anukatable td{
+    text-align: center;
+    border: 5px solid black;
+    border: 5px solid black;
+}
+table.Anukatable th{
+    background-color: pink;
+    color: aliceblue;
+    text-align: center;
+    border: 5px solid black;
+}
+table.Anukatable tr:nth-child(even){
+    background-color: plum;
+}
+table.Anukatable tr:nth-child(odd){
+    background-color: pink;
+}
