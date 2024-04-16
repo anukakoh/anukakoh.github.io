@@ -63,3 +63,7 @@ table.Anukatable tr:nth-child(even){
 table.Anukatable tr:nth-child(odd){
     background-color: pink;
 }
+table.Anukatable td{
+    text-align: center;
+    border:1px solid black;
+}
