@@ -1,26 +1,35 @@
-h1 { color : rgb(22, 87, 52); }
+h1 { color : rgba(226, 110, 199, 0.333); }
+.table-80{
+    width:80% ;
 
+}
 .bg-primary{
     background-color: pink !important;
-    background-image: url(../assets/img/bg-picture.jpeg);
+    background-image: url(../assets/img/pink.jpeg);
     background-repeat: no-repeat;
     background-size:cover 
 }
-p#redred{
-    color: rgb(175, 207, 48);
+.pinkpink{
+    color: pink;
+}
+div#redred{
+    padding: 50px ; 
+    border: 5px solid white;
+    color: rgb(228, 111, 174);
     background-color: pink;
-    color: black;
+    color: rgb(219, 153, 210);
     border: 20px solid;
-    background-image: url(../assets/img/bg-picture.jpeg);
+    background-image: url(../assets/img/pink.jpeg);
     background-size: cover;
-    border-color: black;
+    border-color: rgb(244, 213, 232);
+    border-radius: 15px;
 }
 .expedu_icon { 
-color:bisque;
+color:rgb(233, 190, 226);
 }
 .expedu_icon:hover{
-    background-color: blue; 
-    color:  black;
+    background-color: rgb(240, 157, 216); 
+    color:  rgb(246, 7, 183);
 }
 body{ 
     font-family: 'Noto Sans TC', sans-serif;
