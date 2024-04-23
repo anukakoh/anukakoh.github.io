@@ -48,9 +48,9 @@ ol.anuka>li:hover{
 }
 
 table.Anukatable{
-    width: 80%;
+    width: 100%;
     text-align: center;
-    background-color: antiquewhite;
+    background-color: rgb(240, 161, 224);
     border: 5px solid black;
 }
 
@@ -75,4 +75,13 @@ table.Anukatable tr:nth-child(odd){
 table.Anukatable td{
     text-align: center;
     border:1px solid black;
+}
+.overflowtest{
+    background-color: pink;
+    color: black;
+    padding: 15px 25px;
+    border-radius: 15px;
+    margin: 30px auto;
+    height:300px; 
+    overflow:scroll;
 }
